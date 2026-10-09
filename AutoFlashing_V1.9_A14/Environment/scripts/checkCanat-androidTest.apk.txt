@@ -1,0 +1,1 @@
+Placeholder for /home/lge/Environment/tools/AutoFlashing_V1.9_A14/Environment/scripts/checkCanat-androidTest.apk

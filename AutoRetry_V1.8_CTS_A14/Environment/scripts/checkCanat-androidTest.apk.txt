@@ -1,0 +1,1 @@
+Placeholder for /home/lge/Environment/tools/AutoRetry_V1.8_CTS_A14/Environment/scripts/checkCanat-androidTest.apk

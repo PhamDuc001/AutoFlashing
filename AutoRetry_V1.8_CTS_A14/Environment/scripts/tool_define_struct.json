@@ -1,0 +1,7 @@
+{
+  "CTS": "/home/lge/Environment/Official_Tool/CTS/android-cts-14_{}-linux_x86-arm.zip",
+  "STS": "/home/lge/Environment/Official_Tool/STS/android-sts-12.1_sts-{}-linux-arm64.zip",
+  "ATS": "/home/lge/Environment/Official_Tool/ATS/android-ats-{}-test_suites_arm64.zip",
+  "VTS": "/home/lge/Environment/Official_Tool/VTS/android-vts-{}.zip",
+  "GSI": "/home/lge/Environment/Official_Tool/GSI/android-cts-14_{}-linux_x86-arm.zip"
+}
